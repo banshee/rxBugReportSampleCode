@@ -2,6 +2,9 @@
 using Android.Widget;
 using Android.OS;
 
+using System.Reactive.Disposables;
+using System.Reactive.Subjects;
+
 namespace TestReactive
 {
 	[Activity(Label = "TestReactive", MainLauncher = true, Icon = "@mipmap/icon")]
