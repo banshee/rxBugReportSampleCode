@@ -1,5 +1,138 @@
 System.Reactive
+  exclude System.Threading
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+
 System.Reactive.Core
+  exclude System.Threading
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+
 System.Reactive.Interfaces
+  exclude System.Threading
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+
 System.Reactive.Linq
+  exclude System.Threading
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+
 System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Threading
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+  exclude System.Xml.XDocument
+  exclude System.Runtime.Numerics
+  exclude System.Runtime.InteropServices.WindowsRuntime
+  exclude System.Reflection.Emit.Lightweight
+  exclude System.Reflection.Emit.ILGeneration
+  exclude System.Reflection.Emit
+  exclude System.ObjectModel
+  exclude System.Linq.Queryable
+  exclude System.Dynamic.Runtime
+  exclude System.Diagnostics.Contracts
+  exclude System.ComponentModel
+  exclude System.Collections.Concurrent
+
+Xamarin.Android.Support.v4
+Xamarin.Android.Support.v7.AppCompat
+System.Threading.Tasks.Extensions
