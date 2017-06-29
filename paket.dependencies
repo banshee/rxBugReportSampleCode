@@ -1,3 +1,4 @@
+cache ../nuget.cache
 source https://www.nuget.org/api/v2
 
 nuget System.Reactive 4.0.0-preview00001
@@ -6,3 +7,4 @@ nuget System.Reactive.Interfaces 4.0.0-preview00001
 nuget System.Reactive.Linq 4.0.0-preview00001
 nuget Xamarin.Android.Support.v4
 nuget Xamarin.Android.Support.v7.AppCompat
+nuget FSharp.Data

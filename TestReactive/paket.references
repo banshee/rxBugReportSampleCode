@@ -136,3 +136,4 @@ System.Runtime.InteropServices.WindowsRuntime
 Xamarin.Android.Support.v4
 Xamarin.Android.Support.v7.AppCompat
 System.Threading.Tasks.Extensions
+FSharp.Data
